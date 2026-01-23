@@ -1,0 +1,23 @@
+{
+  "name": "dsa-with-js",
+  "version": "1.0.0",
+  "description": "Data structure using javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijit694/DSA-using-JS.git"
+  },
+  "author": "Abhijit Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijit694/DSA-using-JS/issues"
+  },
+  "homepage": "https://github.com/Abhijit694/DSA-using-JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
